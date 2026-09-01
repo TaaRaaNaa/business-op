@@ -1,0 +1,47 @@
+[
+  {
+    "source": "escalation_policy.md",
+    "heading": "Severity Definitions",
+    "text": "## Severity Definitions\n- **High**: Production outage, data integrity issue, or client threatening churn. Response SLA: 2 business hours.\n- **Medium**: Feature gap, workflow friction, delayed onboarding milestone. Response SLA: 1 business day.\n- **Low**: Cosmetic issue, documentation gap, minor feature request. Response SLA: 3 business days."
+  },
+  {
+    "source": "escalation_policy.md",
+    "heading": "Escalation Path",
+    "text": "## Escalation Path\n1. Support ticket or QBR note logged in CRM with severity tag.\n2. If High severity, CSM notifies Client Services Ops lead immediately.\n3. Client Services Ops lead triages: assign to Product (if feature/bug), Engineering (if technical), or Sales (if commercial/pricing).\n4. All High-severity items are reviewed in the weekly Client Services Ops sync and tracked to resolution."
+  },
+  {
+    "source": "escalation_policy.md",
+    "heading": "Root Cause Categories",
+    "text": "## Root Cause Categories\n- Product: bugs, missing features, documentation gaps\n- Client Services: onboarding delays, support responsiveness, training gaps\n- Sales: pricing confusion, expectation mismatch during sales cycle, contract terms"
+  },
+  {
+    "source": "escalation_policy.md",
+    "heading": "Automation Note",
+    "text": "## Automation Note\nRecurring themes (3+ similar feedback items in a rolling 90-day window, same category) should be auto-flagged for the roadmap prioritization review."
+  },
+  {
+    "source": "product_faq.md",
+    "heading": "product_faq.md",
+    "text": "# Product FAQ (Demo)\n\n**Q: What products are in the FlexOps demo catalog?**\nA: FlexOMS (order management), FlexEMS (execution management), FlexAlgo Suite (algo trading tools),\nFlexAnalytics (post-trade analytics), and FlexConnect API (integration layer for OMS/EMS connectivity).\n\n**Q: What counts as a \"Strategic\" tier account?**\nA: Accounts with ARR above $300,000 or accounts flagged by leadership as top-20 relationships regardless of ARR.\n\n**Q: How is renewal risk assessed?**\nA: A composite of (a) usage trend over trailing 90 days, (b) open High-severity feedback items,\nand (c) days since last executive touchpoint (QBR or exec call).\n\n**Q: What's the standard onboarding timeline?**\nA: Target is 6 weeks from contract signature to go-live for Mid-Market, 10 weeks for Enterprise/Strategic\ngiven deeper OMS/EMS integration work."
+  },
+  {
+    "source": "sales_playbook.md",
+    "heading": "Opportunity Stages",
+    "text": "## Opportunity Stages\n1. **Prospecting** \u2014 Initial outreach, no confirmed interest yet.\n2. **Qualification** \u2014 BANT confirmed (Budget, Authority, Need, Timeline).\n3. **Needs Analysis** \u2014 Discovery call(s) completed, pain points documented in CRM.\n4. **Proposal Sent** \u2014 Pricing and SOW shared; reps must log proposal value and expected close date.\n5. **Negotiation** \u2014 Legal/procurement engaged; CLM (contract lifecycle management) tracked in LinkSquares-equivalent.\n6. **Closed Won / Closed Lost** \u2014 Loss reason is mandatory for all Closed Lost opportunities."
+  },
+  {
+    "source": "sales_playbook.md",
+    "heading": "Lead Leakage Policy",
+    "text": "## Lead Leakage Policy\nAn opportunity is flagged as \"at risk of leakage\" if:\n- No activity logged in 21+ days, AND\n- Stage is Qualification through Negotiation (not yet closed)\n\nReps are notified automatically; if no action within 5 business days, the deal escalates to the regional Sales Ops lead for review."
+  },
+  {
+    "source": "sales_playbook.md",
+    "heading": "Escalation Thresholds",
+    "text": "## Escalation Thresholds\n- Deals over $200,000 ARR require VP Sales sign-off before moving to Negotiation.\n- Renewal opportunities at risk (churn signal) must be flagged to Client Services within 48 hours of detection."
+  },
+  {
+    "source": "sales_playbook.md",
+    "heading": "Quarterly Business Review (QBR) Cadence",
+    "text": "## Quarterly Business Review (QBR) Cadence\nStrategic and Enterprise tier accounts receive a QBR every quarter. Mid-Market accounts receive a QBR every two quarters unless flagged high-risk."
+  }
+]

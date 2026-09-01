@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "KPIFramework",
+  "description": "4-dimension KPI framework for evaluating account/partner health, applied across the demo's synthetic accounts.",
+  "type": "object",
+  "required": ["account_id", "period", "dimensions"],
+  "properties": {
+    "account_id": { "type": "string" },
+    "period": { "type": "string", "description": "e.g. 2026-Q3" },
+    "dimensions": {
+      "type": "object",
+      "required": ["engagement", "pipeline_health", "delivery", "satisfaction"],
+      "properties": {
+        "engagement": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "number", "minimum": 0, "maximum": 100 },
+            "activity_count_90d": { "type": "integer" },
+            "days_since_last_touch": { "type": "integer" }
+          }
+        },
+        "pipeline_health": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "number", "minimum": 0, "maximum": 100 },
+            "open_opp_value_usd": { "type": "number" },
+            "stalled_opp_count": { "type": "integer" }
+          }
+        },
+        "delivery": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "number", "minimum": 0, "maximum": 100 },
+            "on_time_rate": { "type": "number" }
+          }
+        },
+        "satisfaction": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "number", "minimum": 0, "maximum": 100 },
+            "open_high_severity_items": { "type": "integer" }
+          }
+        }
+      }
+    },
+    "composite_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "risk_flag": { "type": "string", "enum": ["Healthy", "Watch", "At Risk"] }
+  }
+}

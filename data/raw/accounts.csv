@@ -1,0 +1,61 @@
+account_id,account_name,industry,region,tier,arr_usd,csm_owner,created_date
+ACC-1001,Silva Hedge Fund,Investment Bank,Americas,Enterprise,50000,Omar Novak,2022-10-19
+ACC-1002,Reyes Hedge Fund,Hedge Fund,Americas,Enterprise,25000,Omar Haddad,2023-01-20
+ACC-1003,Reyes Prop Trading Firm,Family Office,APAC,Enterprise,25000,Liam Reyes,2024-03-15
+ACC-1004,Nguyen Broker-Dealer,Prop Trading Firm,EMEA,Strategic,400000,Wei Costa,2024-03-07
+ACC-1005,Osei Investment Bank,Hedge Fund,APAC,Enterprise,50000,Fatima Novak,2023-01-06
+ACC-1006,Okafor Regional Bank,Prop Trading Firm,APAC,Strategic,120000,Raj Novak,2024-10-21
+ACC-1007,Silva Pension Fund,Investment Bank,EMEA,Mid-Market,250000,Liam Costa,2024-02-13
+ACC-1008,Haddad Investment Bank,Asset Manager,APAC,Mid-Market,120000,Liam Larsen,2023-12-25
+ACC-1009,Nguyen Prop Trading Firm,Regional Bank,Americas,Enterprise,25000,Yuki Sato,2024-08-10
+ACC-1010,Novak Prop Trading Firm,Regional Bank,Americas,Mid-Market,400000,Anya Kim,2024-08-16
+ACC-1011,Kim Prop Trading Firm,Investment Bank,APAC,Enterprise,400000,Mateo Muller,2025-05-02
+ACC-1012,Abbas Family Office,Asset Manager,Americas,Mid-Market,75000,Liam Reyes,2022-10-07
+ACC-1013,Novak Pension Fund,Pension Fund,APAC,Mid-Market,180000,Omar Chen,2025-06-20
+ACC-1014,Duarte Investment Bank,Regional Bank,Americas,Enterprise,75000,Anya Chen,2024-08-19
+ACC-1015,Abbas Broker-Dealer,Asset Manager,APAC,Enterprise,120000,Sofia Costa,2025-03-16
+ACC-1016,Duarte Hedge Fund,Regional Bank,EMEA,Strategic,250000,Raj Muller,2025-10-14
+ACC-1017,Muller Asset Manager,Asset Manager,APAC,Enterprise,50000,Omar Kim,2025-05-23
+ACC-1018,Bianchi Broker-Dealer,Investment Bank,APAC,Mid-Market,400000,Noor Duarte,2024-12-25
+ACC-1019,Okafor Pension Fund,Regional Bank,EMEA,Mid-Market,600000,Wei Muller,2024-11-06
+ACC-1020,Novak Regional Bank,Hedge Fund,APAC,Enterprise,120000,Alex Novak,2022-07-28
+ACC-1021,Patel Prop Trading Firm,Asset Manager,Americas,Mid-Market,50000,Nina Muller,2024-07-19
+ACC-1022,Bianchi Prop Trading Firm,Broker-Dealer,APAC,Mid-Market,600000,Carlos Bianchi,2023-10-30
+ACC-1023,Haddad Asset Manager,Asset Manager,APAC,Enterprise,400000,Lucas Larsen,2025-10-22
+ACC-1024,Silva Hedge Fund,Pension Fund,APAC,Enterprise,50000,Carlos Haddad,2025-01-16
+ACC-1025,Duarte Family Office,Broker-Dealer,EMEA,Enterprise,600000,Carlos Novak,2023-08-17
+ACC-1026,Duarte Asset Manager,Hedge Fund,APAC,Mid-Market,25000,Priya Muller,2025-03-06
+ACC-1027,Reyes Family Office,Family Office,Americas,Mid-Market,25000,Liam Sato,2026-02-05
+ACC-1028,Sato Investment Bank,Family Office,EMEA,Enterprise,600000,Sofia Haddad,2024-06-12
+ACC-1029,Haddad Hedge Fund,Hedge Fund,APAC,Enterprise,25000,Grace Bianchi,2023-04-17
+ACC-1030,Abbas Broker-Dealer,Hedge Fund,APAC,Strategic,75000,Priya Osei,2025-09-23
+ACC-1031,Muller Pension Fund,Asset Manager,APAC,Enterprise,25000,Theo Novak,2023-10-05
+ACC-1032,Weiss Regional Bank,Investment Bank,Americas,Mid-Market,250000,Carlos Nguyen,2023-11-22
+ACC-1033,Kim Investment Bank,Family Office,EMEA,Mid-Market,50000,Alex Larsen,2022-08-17
+ACC-1034,Weiss Asset Manager,Asset Manager,APAC,Enterprise,180000,Sofia Costa,2025-09-22
+ACC-1035,Muller Regional Bank,Investment Bank,Americas,Enterprise,180000,Theo Abbas,2026-01-24
+ACC-1036,Duarte Investment Bank,Asset Manager,Americas,Enterprise,50000,Omar Kim,2024-08-01
+ACC-1037,Okafor Prop Trading Firm,Regional Bank,Americas,Mid-Market,180000,Nina Bianchi,2024-09-13
+ACC-1038,Patel Asset Manager,Pension Fund,EMEA,Strategic,250000,Sofia Nguyen,2025-03-16
+ACC-1039,Larsen Pension Fund,Hedge Fund,Americas,Strategic,75000,Omar Patel,2024-01-15
+ACC-1040,Weiss Broker-Dealer,Pension Fund,Americas,Strategic,250000,Jordan Costa,2024-12-06
+ACC-1041,Muller Asset Manager,Regional Bank,APAC,Mid-Market,400000,Theo Kim,2024-10-13
+ACC-1042,Rossi Broker-Dealer,Pension Fund,Americas,Enterprise,250000,Lucas Muller,2024-08-12
+ACC-1043,Rossi Asset Manager,Pension Fund,Americas,Mid-Market,120000,Noor Larsen,2024-02-24
+ACC-1044,Okafor Prop Trading Firm,Prop Trading Firm,Americas,Mid-Market,400000,Yuki Nguyen,2025-09-20
+ACC-1045,Nguyen Regional Bank,Pension Fund,APAC,Mid-Market,250000,Alex Silva,2024-08-24
+ACC-1046,Rossi Investment Bank,Hedge Fund,Americas,Enterprise,250000,Yuki Reyes,2022-09-17
+ACC-1047,Abbas Asset Manager,Pension Fund,APAC,Enterprise,25000,Lucas Chen,2023-03-13
+ACC-1048,Duarte Prop Trading Firm,Regional Bank,EMEA,Strategic,250000,Theo Ivanov,2025-05-30
+ACC-1049,Okafor Investment Bank,Pension Fund,EMEA,Enterprise,180000,Omar Kim,2025-01-13
+ACC-1050,Reyes Pension Fund,Broker-Dealer,APAC,Enterprise,400000,Omar Chen,2024-05-28
+ACC-1051,Okafor Prop Trading Firm,Pension Fund,APAC,Mid-Market,250000,Anya Larsen,2023-08-19
+ACC-1052,Haddad Family Office,Broker-Dealer,APAC,Strategic,250000,Priya Muller,2024-05-15
+ACC-1053,Muller Prop Trading Firm,Broker-Dealer,Americas,Strategic,600000,Theo Novak,2023-07-23
+ACC-1054,Reyes Prop Trading Firm,Pension Fund,EMEA,Enterprise,75000,Alex Silva,2023-09-23
+ACC-1055,Muller Broker-Dealer,Family Office,Americas,Enterprise,50000,Anya Kim,2023-07-04
+ACC-1056,Abbas Regional Bank,Family Office,APAC,Mid-Market,400000,Omar Larsen,2025-03-21
+ACC-1057,Bianchi Family Office,Investment Bank,Americas,Mid-Market,180000,Nina Bianchi,2022-08-06
+ACC-1058,Muller Investment Bank,Family Office,Americas,Mid-Market,120000,Emma Ivanov,2024-04-26
+ACC-1059,Duarte Asset Manager,Broker-Dealer,Americas,Enterprise,75000,Noor Novak,2023-10-14
+ACC-1060,Reyes Regional Bank,Family Office,EMEA,Strategic,400000,Fatima Weiss,2025-12-31

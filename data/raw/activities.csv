@@ -1,0 +1,401 @@
+activity_id,opp_id,account_id,activity_type,rep,activity_date,outcome
+ACT-5001,OPP-2005,ACC-1037,Follow-up Email,Anya Rossi,2026-07-04,Neutral
+ACT-5002,OPP-2136,ACC-1006,Contract Review,Sofia Reyes,2026-07-31,No response
+ACT-5003,OPP-2061,ACC-1016,Follow-up Email,Liam Novak,2026-07-28,Positive
+ACT-5004,OPP-2062,ACC-1056,Contract Review,Grace Kim,2026-03-18,Needs follow-up
+ACT-5005,OPP-2017,ACC-1016,Discovery Call,Fatima Ivanov,2026-04-23,Positive
+ACT-5006,OPP-2132,ACC-1003,Technical Deep Dive,Theo Okafor,2026-06-28,Neutral
+ACT-5007,OPP-2075,ACC-1015,Contract Review,Theo Muller,2026-08-28,No response
+ACT-5008,OPP-2062,ACC-1056,Technical Deep Dive,Grace Kim,2026-05-14,Neutral
+ACT-5009,OPP-2022,ACC-1036,Technical Deep Dive,Mateo Larsen,2026-05-28,Positive
+ACT-5010,OPP-2135,ACC-1009,Technical Deep Dive,Omar Silva,2026-04-21,Positive
+ACT-5011,OPP-2100,ACC-1050,Escalation Call,Theo Nguyen,2026-04-30,Positive
+ACT-5012,OPP-2100,ACC-1050,Follow-up Email,Theo Nguyen,2026-06-25,Positive
+ACT-5013,OPP-2092,ACC-1030,Escalation Call,Wei Duarte,2026-08-11,No response
+ACT-5014,OPP-2062,ACC-1056,Renewal Check-in,Grace Kim,2026-03-13,Positive
+ACT-5015,OPP-2086,ACC-1021,Demo,Lucas Abbas,2026-08-17,No response
+ACT-5016,OPP-2140,ACC-1054,Follow-up Email,Theo Chen,2026-03-17,Neutral
+ACT-5017,OPP-2119,ACC-1020,Renewal Check-in,Nina Novak,2026-04-28,Neutral
+ACT-5018,OPP-2035,ACC-1015,Discovery Call,Noor Reyes,2026-05-03,Positive
+ACT-5019,OPP-2076,ACC-1005,Demo,Lucas Silva,2026-08-17,Neutral
+ACT-5020,OPP-2011,ACC-1020,Follow-up Email,Fatima Sato,2026-06-10,Needs follow-up
+ACT-5021,OPP-2140,ACC-1054,Contract Review,Theo Chen,2026-06-25,Positive
+ACT-5022,OPP-2049,ACC-1016,Follow-up Email,Theo Abbas,2026-05-29,Positive
+ACT-5023,OPP-2085,ACC-1008,Follow-up Email,Mateo Muller,2026-07-28,No response
+ACT-5024,OPP-2112,ACC-1021,Contract Review,Mateo Novak,2026-05-08,Needs follow-up
+ACT-5025,OPP-2087,ACC-1048,Demo,Grace Silva,2026-04-23,Needs follow-up
+ACT-5026,OPP-2095,ACC-1044,Escalation Call,Priya Reyes,2026-04-18,No response
+ACT-5027,OPP-2022,ACC-1036,Renewal Check-in,Mateo Larsen,2026-05-12,Positive
+ACT-5028,OPP-2111,ACC-1028,Technical Deep Dive,Wei Sato,2026-07-13,No response
+ACT-5029,OPP-2083,ACC-1009,Discovery Call,Noor Weiss,2026-08-08,No response
+ACT-5030,OPP-2076,ACC-1005,Follow-up Email,Lucas Silva,2026-05-06,Needs follow-up
+ACT-5031,OPP-2043,ACC-1026,Renewal Check-in,Priya Ivanov,2026-05-07,No response
+ACT-5032,OPP-2115,ACC-1041,Discovery Call,Mateo Kim,2026-05-30,Needs follow-up
+ACT-5033,OPP-2071,ACC-1034,Renewal Check-in,Sam Okafor,2026-08-14,Positive
+ACT-5034,OPP-2104,ACC-1006,Follow-up Email,Jordan Novak,2026-04-19,Neutral
+ACT-5035,OPP-2008,ACC-1042,Demo,Carlos Haddad,2026-03-26,Needs follow-up
+ACT-5036,OPP-2009,ACC-1040,Demo,Wei Weiss,2026-08-11,Neutral
+ACT-5037,OPP-2094,ACC-1047,Follow-up Email,Emma Costa,2026-05-22,Positive
+ACT-5038,OPP-2040,ACC-1003,Renewal Check-in,Anya Nguyen,2026-05-05,No response
+ACT-5039,OPP-2096,ACC-1036,Contract Review,Wei Reyes,2026-08-09,Neutral
+ACT-5040,OPP-2136,ACC-1006,Follow-up Email,Sofia Reyes,2026-05-19,No response
+ACT-5041,OPP-2072,ACC-1052,Demo,Fatima Duarte,2026-07-30,Positive
+ACT-5042,OPP-2048,ACC-1042,Contract Review,Emma Reyes,2026-04-18,Needs follow-up
+ACT-5043,OPP-2031,ACC-1059,Follow-up Email,Grace Osei,2026-06-23,Needs follow-up
+ACT-5044,OPP-2055,ACC-1009,Technical Deep Dive,Anya Silva,2026-06-16,Needs follow-up
+ACT-5045,OPP-2052,ACC-1035,Discovery Call,Fatima Larsen,2026-07-25,Positive
+ACT-5046,OPP-2116,ACC-1007,Demo,Sofia Novak,2026-05-07,Positive
+ACT-5047,OPP-2082,ACC-1043,Renewal Check-in,Jordan Ivanov,2026-06-01,Positive
+ACT-5048,OPP-2139,ACC-1054,Follow-up Email,Jordan Okafor,2026-06-13,Neutral
+ACT-5049,OPP-2045,ACC-1034,Escalation Call,Noor Nguyen,2026-05-28,Neutral
+ACT-5050,OPP-2032,ACC-1040,Demo,Noor Nguyen,2026-07-24,Neutral
+ACT-5051,OPP-2127,ACC-1006,Discovery Call,Fatima Kim,2026-05-28,No response
+ACT-5052,OPP-2120,ACC-1029,Escalation Call,Priya Osei,2026-04-09,Neutral
+ACT-5053,OPP-2023,ACC-1020,Discovery Call,Wei Duarte,2026-06-10,Needs follow-up
+ACT-5054,OPP-2123,ACC-1007,Technical Deep Dive,Liam Patel,2026-05-15,Needs follow-up
+ACT-5055,OPP-2019,ACC-1057,Demo,Nina Haddad,2026-06-08,Positive
+ACT-5056,OPP-2116,ACC-1007,Contract Review,Sofia Novak,2026-03-07,No response
+ACT-5057,OPP-2033,ACC-1012,Escalation Call,Anya Osei,2026-04-09,Neutral
+ACT-5058,OPP-2034,ACC-1019,Contract Review,Anya Novak,2026-04-22,Positive
+ACT-5059,OPP-2032,ACC-1040,Technical Deep Dive,Noor Nguyen,2026-07-20,No response
+ACT-5060,OPP-2043,ACC-1026,Demo,Priya Ivanov,2026-06-07,Neutral
+ACT-5061,OPP-2089,ACC-1042,Technical Deep Dive,Lucas Silva,2026-06-17,Positive
+ACT-5062,OPP-2065,ACC-1028,Demo,Fatima Bianchi,2026-03-19,No response
+ACT-5063,OPP-2033,ACC-1012,Renewal Check-in,Anya Osei,2026-06-12,Positive
+ACT-5064,OPP-2129,ACC-1024,Renewal Check-in,Yuki Bianchi,2026-07-16,Neutral
+ACT-5065,OPP-2044,ACC-1008,Renewal Check-in,Omar Larsen,2026-03-22,No response
+ACT-5066,OPP-2011,ACC-1020,Escalation Call,Fatima Sato,2026-08-21,Positive
+ACT-5067,OPP-2012,ACC-1013,Renewal Check-in,Raj Osei,2026-04-03,No response
+ACT-5068,OPP-2054,ACC-1003,Escalation Call,Sofia Bianchi,2026-04-04,Needs follow-up
+ACT-5069,OPP-2008,ACC-1042,Contract Review,Carlos Haddad,2026-03-21,No response
+ACT-5070,OPP-2078,ACC-1024,Contract Review,Grace Kim,2026-06-27,Needs follow-up
+ACT-5071,OPP-2077,ACC-1003,Contract Review,Wei Muller,2026-08-10,Positive
+ACT-5072,OPP-2041,ACC-1028,Contract Review,Mateo Reyes,2026-05-14,Needs follow-up
+ACT-5073,OPP-2119,ACC-1020,Demo,Nina Novak,2026-06-02,Neutral
+ACT-5074,OPP-2081,ACC-1058,Escalation Call,Emma Haddad,2026-06-08,No response
+ACT-5075,OPP-2103,ACC-1027,Demo,Yuki Weiss,2026-05-26,Positive
+ACT-5076,OPP-2082,ACC-1043,Demo,Jordan Ivanov,2026-05-01,Positive
+ACT-5077,OPP-2069,ACC-1042,Contract Review,Mateo Kim,2026-06-26,Neutral
+ACT-5078,OPP-2025,ACC-1019,Discovery Call,Mateo Rossi,2026-06-15,Needs follow-up
+ACT-5079,OPP-2108,ACC-1020,Demo,Yuki Silva,2026-07-19,No response
+ACT-5080,OPP-2081,ACC-1058,Demo,Emma Haddad,2026-07-19,Needs follow-up
+ACT-5081,OPP-2132,ACC-1003,Contract Review,Theo Okafor,2026-04-23,No response
+ACT-5082,OPP-2128,ACC-1046,Discovery Call,Yuki Kim,2026-08-05,Needs follow-up
+ACT-5083,OPP-2130,ACC-1015,Contract Review,Wei Abbas,2026-06-28,Neutral
+ACT-5084,OPP-2091,ACC-1041,Discovery Call,Theo Abbas,2026-08-16,No response
+ACT-5085,OPP-2127,ACC-1006,Technical Deep Dive,Fatima Kim,2026-03-14,Needs follow-up
+ACT-5086,OPP-2074,ACC-1048,Technical Deep Dive,Mateo Silva,2026-08-26,Positive
+ACT-5087,OPP-2111,ACC-1028,Demo,Wei Sato,2026-06-22,No response
+ACT-5088,OPP-2104,ACC-1006,Follow-up Email,Jordan Novak,2026-08-17,Needs follow-up
+ACT-5089,OPP-2014,ACC-1055,Technical Deep Dive,Mateo Larsen,2026-04-07,Neutral
+ACT-5090,OPP-2093,ACC-1028,Technical Deep Dive,Anya Sato,2026-06-16,Positive
+ACT-5091,OPP-2099,ACC-1023,Technical Deep Dive,Grace Muller,2026-05-05,No response
+ACT-5092,OPP-2031,ACC-1059,Demo,Grace Osei,2026-08-04,Needs follow-up
+ACT-5093,OPP-2096,ACC-1036,Escalation Call,Wei Reyes,2026-06-03,No response
+ACT-5094,OPP-2037,ACC-1030,Demo,Nina Duarte,2026-03-27,Needs follow-up
+ACT-5095,OPP-2129,ACC-1024,Discovery Call,Yuki Bianchi,2026-08-17,Positive
+ACT-5096,OPP-2036,ACC-1010,Renewal Check-in,Liam Okafor,2026-06-04,Needs follow-up
+ACT-5097,OPP-2133,ACC-1015,Contract Review,Mateo Weiss,2026-07-21,Neutral
+ACT-5098,OPP-2084,ACC-1022,Technical Deep Dive,Sofia Kim,2026-06-08,Neutral
+ACT-5099,OPP-2101,ACC-1018,Technical Deep Dive,Alex Rossi,2026-06-13,No response
+ACT-5100,OPP-2130,ACC-1015,Escalation Call,Wei Abbas,2026-04-20,Needs follow-up
+ACT-5101,OPP-2077,ACC-1003,Contract Review,Wei Muller,2026-08-24,No response
+ACT-5102,OPP-2085,ACC-1008,Renewal Check-in,Mateo Muller,2026-07-31,Needs follow-up
+ACT-5103,OPP-2079,ACC-1042,Escalation Call,Emma Patel,2026-03-05,Positive
+ACT-5104,OPP-2122,ACC-1042,Follow-up Email,Sofia Patel,2026-03-14,Neutral
+ACT-5105,OPP-2014,ACC-1055,Technical Deep Dive,Mateo Larsen,2026-04-28,Neutral
+ACT-5106,OPP-2135,ACC-1009,Renewal Check-in,Omar Silva,2026-03-23,Needs follow-up
+ACT-5107,OPP-2038,ACC-1029,Escalation Call,Yuki Osei,2026-03-07,Neutral
+ACT-5108,OPP-2009,ACC-1040,Technical Deep Dive,Wei Weiss,2026-03-02,Positive
+ACT-5109,OPP-2049,ACC-1016,Discovery Call,Theo Abbas,2026-05-08,No response
+ACT-5110,OPP-2108,ACC-1020,Demo,Yuki Silva,2026-05-15,Neutral
+ACT-5111,OPP-2106,ACC-1008,Technical Deep Dive,Grace Bianchi,2026-03-25,Needs follow-up
+ACT-5112,OPP-2016,ACC-1028,Renewal Check-in,Carlos Novak,2026-07-24,Neutral
+ACT-5113,OPP-2084,ACC-1022,Renewal Check-in,Sofia Kim,2026-04-28,Needs follow-up
+ACT-5114,OPP-2081,ACC-1058,Demo,Emma Haddad,2026-05-03,No response
+ACT-5115,OPP-2140,ACC-1054,Follow-up Email,Theo Chen,2026-03-08,No response
+ACT-5116,OPP-2124,ACC-1029,Demo,Liam Costa,2026-06-26,No response
+ACT-5117,OPP-2077,ACC-1003,Demo,Wei Muller,2026-06-13,No response
+ACT-5118,OPP-2054,ACC-1003,Renewal Check-in,Sofia Bianchi,2026-03-01,Needs follow-up
+ACT-5119,OPP-2082,ACC-1043,Contract Review,Jordan Ivanov,2026-05-31,No response
+ACT-5120,OPP-2074,ACC-1048,Discovery Call,Mateo Silva,2026-04-04,Needs follow-up
+ACT-5121,OPP-2102,ACC-1043,Escalation Call,Nina Haddad,2026-06-01,Neutral
+ACT-5122,OPP-2075,ACC-1015,Discovery Call,Theo Muller,2026-06-16,Positive
+ACT-5123,OPP-2089,ACC-1042,Contract Review,Lucas Silva,2026-03-14,No response
+ACT-5124,OPP-2123,ACC-1007,Demo,Liam Patel,2026-07-08,No response
+ACT-5125,OPP-2070,ACC-1059,Demo,Sofia Duarte,2026-08-01,Neutral
+ACT-5126,OPP-2063,ACC-1030,Discovery Call,Alex Larsen,2026-03-10,Neutral
+ACT-5127,OPP-2060,ACC-1020,Discovery Call,Raj Costa,2026-08-03,Needs follow-up
+ACT-5128,OPP-2085,ACC-1008,Renewal Check-in,Mateo Muller,2026-04-30,Positive
+ACT-5129,OPP-2036,ACC-1010,Discovery Call,Liam Okafor,2026-04-10,Neutral
+ACT-5130,OPP-2105,ACC-1043,Renewal Check-in,Emma Haddad,2026-04-29,Needs follow-up
+ACT-5131,OPP-2052,ACC-1035,Escalation Call,Fatima Larsen,2026-06-16,No response
+ACT-5132,OPP-2074,ACC-1048,Renewal Check-in,Mateo Silva,2026-08-13,Positive
+ACT-5133,OPP-2060,ACC-1020,Technical Deep Dive,Raj Costa,2026-08-19,Neutral
+ACT-5134,OPP-2107,ACC-1043,Escalation Call,Jordan Chen,2026-07-14,Positive
+ACT-5135,OPP-2102,ACC-1043,Escalation Call,Nina Haddad,2026-04-24,Neutral
+ACT-5136,OPP-2075,ACC-1015,Discovery Call,Theo Muller,2026-08-26,No response
+ACT-5137,OPP-2028,ACC-1022,Follow-up Email,Wei Novak,2026-06-17,Needs follow-up
+ACT-5138,OPP-2140,ACC-1054,Technical Deep Dive,Theo Chen,2026-04-24,Neutral
+ACT-5139,OPP-2130,ACC-1015,Contract Review,Wei Abbas,2026-06-20,Neutral
+ACT-5140,OPP-2029,ACC-1032,Follow-up Email,Sofia Weiss,2026-07-18,Needs follow-up
+ACT-5141,OPP-2066,ACC-1016,Renewal Check-in,Raj Chen,2026-07-12,Positive
+ACT-5142,OPP-2087,ACC-1048,Escalation Call,Grace Silva,2026-06-14,Neutral
+ACT-5143,OPP-2045,ACC-1034,Technical Deep Dive,Noor Nguyen,2026-03-18,Needs follow-up
+ACT-5144,OPP-2110,ACC-1026,Technical Deep Dive,Anya Novak,2026-06-06,Positive
+ACT-5145,OPP-2103,ACC-1027,Renewal Check-in,Yuki Weiss,2026-08-04,Neutral
+ACT-5146,OPP-2036,ACC-1010,Contract Review,Liam Okafor,2026-06-07,Neutral
+ACT-5147,OPP-2002,ACC-1055,Follow-up Email,Omar Osei,2026-05-22,Neutral
+ACT-5148,OPP-2115,ACC-1041,Escalation Call,Mateo Kim,2026-06-21,No response
+ACT-5149,OPP-2078,ACC-1024,Technical Deep Dive,Grace Kim,2026-04-04,Positive
+ACT-5150,OPP-2067,ACC-1026,Renewal Check-in,Sam Okafor,2026-05-28,Neutral
+ACT-5151,OPP-2016,ACC-1028,Renewal Check-in,Carlos Novak,2026-07-29,Needs follow-up
+ACT-5152,OPP-2079,ACC-1042,Demo,Emma Patel,2026-05-17,No response
+ACT-5153,OPP-2031,ACC-1059,Renewal Check-in,Grace Osei,2026-06-14,No response
+ACT-5154,OPP-2057,ACC-1051,Demo,Fatima Novak,2026-07-25,Needs follow-up
+ACT-5155,OPP-2040,ACC-1003,Contract Review,Anya Nguyen,2026-03-26,No response
+ACT-5156,OPP-2107,ACC-1043,Renewal Check-in,Jordan Chen,2026-04-10,Needs follow-up
+ACT-5157,OPP-2138,ACC-1024,Escalation Call,Alex Ivanov,2026-03-11,Neutral
+ACT-5158,OPP-2064,ACC-1044,Renewal Check-in,Grace Okafor,2026-03-29,Positive
+ACT-5159,OPP-2135,ACC-1009,Contract Review,Omar Silva,2026-04-15,No response
+ACT-5160,OPP-2020,ACC-1016,Technical Deep Dive,Sam Bianchi,2026-07-31,Positive
+ACT-5161,OPP-2130,ACC-1015,Demo,Wei Abbas,2026-04-04,Neutral
+ACT-5162,OPP-2043,ACC-1026,Follow-up Email,Priya Ivanov,2026-04-17,Needs follow-up
+ACT-5163,OPP-2030,ACC-1006,Renewal Check-in,Theo Osei,2026-07-07,Needs follow-up
+ACT-5164,OPP-2024,ACC-1012,Technical Deep Dive,Grace Abbas,2026-05-06,Positive
+ACT-5165,OPP-2117,ACC-1050,Demo,Anya Weiss,2026-04-19,Needs follow-up
+ACT-5166,OPP-2117,ACC-1050,Technical Deep Dive,Anya Weiss,2026-08-14,Needs follow-up
+ACT-5167,OPP-2079,ACC-1042,Renewal Check-in,Emma Patel,2026-08-23,Needs follow-up
+ACT-5168,OPP-2066,ACC-1016,Escalation Call,Raj Chen,2026-08-28,Neutral
+ACT-5169,OPP-2019,ACC-1057,Discovery Call,Nina Haddad,2026-05-12,No response
+ACT-5170,OPP-2017,ACC-1016,Technical Deep Dive,Fatima Ivanov,2026-08-13,Positive
+ACT-5171,OPP-2121,ACC-1033,Discovery Call,Jordan Larsen,2026-06-16,Needs follow-up
+ACT-5172,OPP-2047,ACC-1036,Escalation Call,Wei Larsen,2026-07-25,Needs follow-up
+ACT-5173,OPP-2096,ACC-1036,Contract Review,Wei Reyes,2026-05-06,Needs follow-up
+ACT-5174,OPP-2097,ACC-1056,Discovery Call,Theo Okafor,2026-03-07,Neutral
+ACT-5175,OPP-2090,ACC-1058,Discovery Call,Sofia Nguyen,2026-07-14,Needs follow-up
+ACT-5176,OPP-2136,ACC-1006,Demo,Sofia Reyes,2026-07-02,Positive
+ACT-5177,OPP-2006,ACC-1017,Follow-up Email,Yuki Sato,2026-05-02,Needs follow-up
+ACT-5178,OPP-2137,ACC-1053,Contract Review,Jordan Sato,2026-07-01,Neutral
+ACT-5179,OPP-2118,ACC-1041,Follow-up Email,Anya Novak,2026-07-20,No response
+ACT-5180,OPP-2049,ACC-1016,Renewal Check-in,Theo Abbas,2026-07-31,Positive
+ACT-5181,OPP-2108,ACC-1020,Technical Deep Dive,Yuki Silva,2026-08-24,Neutral
+ACT-5182,OPP-2053,ACC-1056,Discovery Call,Fatima Muller,2026-08-03,Positive
+ACT-5183,OPP-2115,ACC-1041,Technical Deep Dive,Mateo Kim,2026-03-09,Positive
+ACT-5184,OPP-2063,ACC-1030,Renewal Check-in,Alex Larsen,2026-08-17,Needs follow-up
+ACT-5185,OPP-2113,ACC-1055,Demo,Nina Novak,2026-04-12,Neutral
+ACT-5186,OPP-2015,ACC-1010,Demo,Omar Bianchi,2026-04-22,No response
+ACT-5187,OPP-2060,ACC-1020,Escalation Call,Raj Costa,2026-04-03,No response
+ACT-5188,OPP-2083,ACC-1009,Demo,Noor Weiss,2026-06-12,Neutral
+ACT-5189,OPP-2134,ACC-1030,Demo,Lucas Rossi,2026-05-15,No response
+ACT-5190,OPP-2071,ACC-1034,Discovery Call,Sam Okafor,2026-04-08,Neutral
+ACT-5191,OPP-2110,ACC-1026,Technical Deep Dive,Anya Novak,2026-04-24,Positive
+ACT-5192,OPP-2089,ACC-1042,Renewal Check-in,Lucas Silva,2026-03-10,Needs follow-up
+ACT-5193,OPP-2135,ACC-1009,Follow-up Email,Omar Silva,2026-03-03,Needs follow-up
+ACT-5194,OPP-2105,ACC-1043,Demo,Emma Haddad,2026-06-13,Needs follow-up
+ACT-5195,OPP-2048,ACC-1042,Escalation Call,Emma Reyes,2026-04-13,Needs follow-up
+ACT-5196,OPP-2062,ACC-1056,Escalation Call,Grace Kim,2026-07-02,No response
+ACT-5197,OPP-2037,ACC-1030,Escalation Call,Nina Duarte,2026-05-02,Positive
+ACT-5198,OPP-2106,ACC-1008,Contract Review,Grace Bianchi,2026-04-08,Neutral
+ACT-5199,OPP-2100,ACC-1050,Demo,Theo Nguyen,2026-06-24,Neutral
+ACT-5200,OPP-2085,ACC-1008,Renewal Check-in,Mateo Muller,2026-08-08,Needs follow-up
+ACT-5201,OPP-2095,ACC-1044,Discovery Call,Priya Reyes,2026-04-13,Neutral
+ACT-5202,OPP-2014,ACC-1055,Follow-up Email,Mateo Larsen,2026-05-24,Positive
+ACT-5203,OPP-2019,ACC-1057,Demo,Nina Haddad,2026-03-31,Neutral
+ACT-5204,OPP-2123,ACC-1007,Demo,Liam Patel,2026-06-04,No response
+ACT-5205,OPP-2004,ACC-1054,Demo,Alex Sato,2026-07-11,Positive
+ACT-5206,OPP-2123,ACC-1007,Demo,Liam Patel,2026-03-03,Neutral
+ACT-5207,OPP-2102,ACC-1043,Demo,Nina Haddad,2026-04-09,No response
+ACT-5208,OPP-2073,ACC-1006,Contract Review,Wei Larsen,2026-05-01,No response
+ACT-5209,OPP-2079,ACC-1042,Follow-up Email,Emma Patel,2026-05-28,Needs follow-up
+ACT-5210,OPP-2120,ACC-1029,Discovery Call,Priya Osei,2026-04-30,No response
+ACT-5211,OPP-2053,ACC-1056,Follow-up Email,Fatima Muller,2026-06-09,Needs follow-up
+ACT-5212,OPP-2012,ACC-1013,Technical Deep Dive,Raj Osei,2026-07-03,Neutral
+ACT-5213,OPP-2005,ACC-1037,Follow-up Email,Anya Rossi,2026-04-09,Needs follow-up
+ACT-5214,OPP-2076,ACC-1005,Demo,Lucas Silva,2026-07-09,No response
+ACT-5215,OPP-2059,ACC-1044,Contract Review,Wei Silva,2026-04-05,Neutral
+ACT-5216,OPP-2128,ACC-1046,Technical Deep Dive,Yuki Kim,2026-03-14,No response
+ACT-5217,OPP-2066,ACC-1016,Escalation Call,Raj Chen,2026-04-25,Needs follow-up
+ACT-5218,OPP-2118,ACC-1041,Demo,Anya Novak,2026-05-30,Neutral
+ACT-5219,OPP-2036,ACC-1010,Renewal Check-in,Liam Okafor,2026-04-11,Needs follow-up
+ACT-5220,OPP-2048,ACC-1042,Technical Deep Dive,Emma Reyes,2026-03-17,Positive
+ACT-5221,OPP-2135,ACC-1009,Discovery Call,Omar Silva,2026-08-09,Positive
+ACT-5222,OPP-2002,ACC-1055,Contract Review,Omar Osei,2026-07-24,Neutral
+ACT-5223,OPP-2018,ACC-1055,Renewal Check-in,Emma Ivanov,2026-07-21,Positive
+ACT-5224,OPP-2056,ACC-1059,Technical Deep Dive,Sofia Novak,2026-05-04,No response
+ACT-5225,OPP-2016,ACC-1028,Technical Deep Dive,Carlos Novak,2026-03-18,Needs follow-up
+ACT-5226,OPP-2125,ACC-1027,Discovery Call,Yuki Novak,2026-08-27,Needs follow-up
+ACT-5227,OPP-2004,ACC-1054,Discovery Call,Alex Sato,2026-04-15,No response
+ACT-5228,OPP-2138,ACC-1024,Follow-up Email,Alex Ivanov,2026-08-24,Needs follow-up
+ACT-5229,OPP-2046,ACC-1009,Discovery Call,Alex Osei,2026-08-04,Neutral
+ACT-5230,OPP-2062,ACC-1056,Demo,Grace Kim,2026-03-23,No response
+ACT-5231,OPP-2091,ACC-1041,Follow-up Email,Theo Abbas,2026-05-19,Positive
+ACT-5232,OPP-2096,ACC-1036,Contract Review,Wei Reyes,2026-05-03,Neutral
+ACT-5233,OPP-2058,ACC-1041,Follow-up Email,Theo Novak,2026-03-06,Positive
+ACT-5234,OPP-2009,ACC-1040,Discovery Call,Wei Weiss,2026-05-17,Needs follow-up
+ACT-5235,OPP-2097,ACC-1056,Technical Deep Dive,Theo Okafor,2026-04-29,Positive
+ACT-5236,OPP-2003,ACC-1015,Renewal Check-in,Yuki Sato,2026-07-16,Positive
+ACT-5237,OPP-2128,ACC-1046,Escalation Call,Yuki Kim,2026-05-09,No response
+ACT-5238,OPP-2025,ACC-1019,Technical Deep Dive,Mateo Rossi,2026-08-18,Neutral
+ACT-5239,OPP-2055,ACC-1009,Escalation Call,Anya Silva,2026-03-04,Needs follow-up
+ACT-5240,OPP-2070,ACC-1059,Discovery Call,Sofia Duarte,2026-08-09,No response
+ACT-5241,OPP-2140,ACC-1054,Technical Deep Dive,Theo Chen,2026-03-13,Positive
+ACT-5242,OPP-2046,ACC-1009,Escalation Call,Alex Osei,2026-06-09,Positive
+ACT-5243,OPP-2054,ACC-1003,Technical Deep Dive,Sofia Bianchi,2026-07-23,Needs follow-up
+ACT-5244,OPP-2020,ACC-1016,Follow-up Email,Sam Bianchi,2026-07-18,Neutral
+ACT-5245,OPP-2100,ACC-1050,Renewal Check-in,Theo Nguyen,2026-04-12,No response
+ACT-5246,OPP-2099,ACC-1023,Escalation Call,Grace Muller,2026-07-24,Positive
+ACT-5247,OPP-2129,ACC-1024,Renewal Check-in,Yuki Bianchi,2026-06-01,Positive
+ACT-5248,OPP-2026,ACC-1035,Contract Review,Raj Kim,2026-06-30,Positive
+ACT-5249,OPP-2088,ACC-1033,Technical Deep Dive,Nina Okafor,2026-03-24,Needs follow-up
+ACT-5250,OPP-2084,ACC-1022,Discovery Call,Sofia Kim,2026-03-19,No response
+ACT-5251,OPP-2116,ACC-1007,Contract Review,Sofia Novak,2026-07-01,No response
+ACT-5252,OPP-2097,ACC-1056,Contract Review,Theo Okafor,2026-07-12,Needs follow-up
+ACT-5253,OPP-2022,ACC-1036,Escalation Call,Mateo Larsen,2026-03-23,No response
+ACT-5254,OPP-2064,ACC-1044,Renewal Check-in,Grace Okafor,2026-08-10,Positive
+ACT-5255,OPP-2069,ACC-1042,Demo,Mateo Kim,2026-05-23,Neutral
+ACT-5256,OPP-2100,ACC-1050,Follow-up Email,Theo Nguyen,2026-05-28,Positive
+ACT-5257,OPP-2024,ACC-1012,Discovery Call,Grace Abbas,2026-06-11,Needs follow-up
+ACT-5258,OPP-2093,ACC-1028,Escalation Call,Anya Sato,2026-06-20,Positive
+ACT-5259,OPP-2034,ACC-1019,Discovery Call,Anya Novak,2026-07-12,Needs follow-up
+ACT-5260,OPP-2115,ACC-1041,Technical Deep Dive,Mateo Kim,2026-04-08,Needs follow-up
+ACT-5261,OPP-2027,ACC-1056,Discovery Call,Raj Bianchi,2026-08-06,No response
+ACT-5262,OPP-2024,ACC-1012,Technical Deep Dive,Grace Abbas,2026-03-28,No response
+ACT-5263,OPP-2099,ACC-1023,Discovery Call,Grace Muller,2026-06-15,Needs follow-up
+ACT-5264,OPP-2100,ACC-1050,Escalation Call,Theo Nguyen,2026-08-07,Neutral
+ACT-5265,OPP-2134,ACC-1030,Demo,Lucas Rossi,2026-03-06,Needs follow-up
+ACT-5266,OPP-2044,ACC-1008,Demo,Omar Larsen,2026-06-21,No response
+ACT-5267,OPP-2069,ACC-1042,Contract Review,Mateo Kim,2026-07-22,Positive
+ACT-5268,OPP-2043,ACC-1026,Contract Review,Priya Ivanov,2026-06-19,Needs follow-up
+ACT-5269,OPP-2077,ACC-1003,Contract Review,Wei Muller,2026-08-09,No response
+ACT-5270,OPP-2065,ACC-1028,Demo,Fatima Bianchi,2026-03-21,Needs follow-up
+ACT-5271,OPP-2051,ACC-1047,Contract Review,Sam Kim,2026-08-01,Neutral
+ACT-5272,OPP-2078,ACC-1024,Discovery Call,Grace Kim,2026-05-19,No response
+ACT-5273,OPP-2098,ACC-1007,Escalation Call,Sam Muller,2026-06-05,Needs follow-up
+ACT-5274,OPP-2086,ACC-1021,Contract Review,Lucas Abbas,2026-03-15,Neutral
+ACT-5275,OPP-2077,ACC-1003,Follow-up Email,Wei Muller,2026-03-27,Neutral
+ACT-5276,OPP-2123,ACC-1007,Follow-up Email,Liam Patel,2026-07-14,Needs follow-up
+ACT-5277,OPP-2082,ACC-1043,Follow-up Email,Jordan Ivanov,2026-03-04,Needs follow-up
+ACT-5278,OPP-2063,ACC-1030,Follow-up Email,Alex Larsen,2026-05-24,No response
+ACT-5279,OPP-2101,ACC-1018,Follow-up Email,Alex Rossi,2026-07-30,Neutral
+ACT-5280,OPP-2140,ACC-1054,Demo,Theo Chen,2026-03-07,Positive
+ACT-5281,OPP-2119,ACC-1020,Renewal Check-in,Nina Novak,2026-07-06,Needs follow-up
+ACT-5282,OPP-2075,ACC-1015,Escalation Call,Theo Muller,2026-03-04,Positive
+ACT-5283,OPP-2105,ACC-1043,Renewal Check-in,Emma Haddad,2026-04-23,Neutral
+ACT-5284,OPP-2078,ACC-1024,Demo,Grace Kim,2026-06-25,Neutral
+ACT-5285,OPP-2109,ACC-1012,Escalation Call,Omar Costa,2026-05-24,Positive
+ACT-5286,OPP-2115,ACC-1041,Technical Deep Dive,Mateo Kim,2026-04-28,Needs follow-up
+ACT-5287,OPP-2137,ACC-1053,Technical Deep Dive,Jordan Sato,2026-03-04,Needs follow-up
+ACT-5288,OPP-2140,ACC-1054,Discovery Call,Theo Chen,2026-05-28,Positive
+ACT-5289,OPP-2028,ACC-1022,Escalation Call,Wei Novak,2026-06-26,No response
+ACT-5290,OPP-2043,ACC-1026,Renewal Check-in,Priya Ivanov,2026-03-25,Positive
+ACT-5291,OPP-2103,ACC-1027,Escalation Call,Yuki Weiss,2026-06-05,Needs follow-up
+ACT-5292,OPP-2028,ACC-1022,Discovery Call,Wei Novak,2026-08-03,No response
+ACT-5293,OPP-2057,ACC-1051,Technical Deep Dive,Fatima Novak,2026-04-18,Neutral
+ACT-5294,OPP-2115,ACC-1041,Follow-up Email,Mateo Kim,2026-05-20,Needs follow-up
+ACT-5295,OPP-2129,ACC-1024,Demo,Yuki Bianchi,2026-06-01,Positive
+ACT-5296,OPP-2124,ACC-1029,Discovery Call,Liam Costa,2026-06-14,Needs follow-up
+ACT-5297,OPP-2022,ACC-1036,Discovery Call,Mateo Larsen,2026-07-23,No response
+ACT-5298,OPP-2080,ACC-1024,Follow-up Email,Wei Costa,2026-05-04,Neutral
+ACT-5299,OPP-2134,ACC-1030,Contract Review,Lucas Rossi,2026-05-31,Needs follow-up
+ACT-5300,OPP-2025,ACC-1019,Contract Review,Mateo Rossi,2026-03-03,Needs follow-up
+ACT-5301,OPP-2082,ACC-1043,Discovery Call,Jordan Ivanov,2026-06-13,Positive
+ACT-5302,OPP-2030,ACC-1006,Discovery Call,Theo Osei,2026-06-02,Positive
+ACT-5303,OPP-2043,ACC-1026,Renewal Check-in,Priya Ivanov,2026-06-27,Neutral
+ACT-5304,OPP-2041,ACC-1028,Follow-up Email,Mateo Reyes,2026-04-07,Needs follow-up
+ACT-5305,OPP-2119,ACC-1020,Demo,Nina Novak,2026-05-17,Neutral
+ACT-5306,OPP-2048,ACC-1042,Renewal Check-in,Emma Reyes,2026-03-13,Needs follow-up
+ACT-5307,OPP-2102,ACC-1043,Discovery Call,Nina Haddad,2026-03-24,Neutral
+ACT-5308,OPP-2116,ACC-1007,Technical Deep Dive,Sofia Novak,2026-05-11,Needs follow-up
+ACT-5309,OPP-2002,ACC-1055,Renewal Check-in,Omar Osei,2026-07-05,Neutral
+ACT-5310,OPP-2072,ACC-1052,Escalation Call,Fatima Duarte,2026-03-01,Positive
+ACT-5311,OPP-2027,ACC-1056,Escalation Call,Raj Bianchi,2026-04-13,Neutral
+ACT-5312,OPP-2094,ACC-1047,Follow-up Email,Emma Costa,2026-07-09,Needs follow-up
+ACT-5313,OPP-2030,ACC-1006,Follow-up Email,Theo Osei,2026-03-10,Needs follow-up
+ACT-5314,OPP-2136,ACC-1006,Renewal Check-in,Sofia Reyes,2026-06-09,Needs follow-up
+ACT-5315,OPP-2101,ACC-1018,Technical Deep Dive,Alex Rossi,2026-07-30,No response
+ACT-5316,OPP-2091,ACC-1041,Escalation Call,Theo Abbas,2026-05-03,Neutral
+ACT-5317,OPP-2077,ACC-1003,Technical Deep Dive,Wei Muller,2026-03-30,Positive
+ACT-5318,OPP-2035,ACC-1015,Follow-up Email,Noor Reyes,2026-07-29,Neutral
+ACT-5319,OPP-2079,ACC-1042,Discovery Call,Emma Patel,2026-07-13,No response
+ACT-5320,OPP-2037,ACC-1030,Technical Deep Dive,Nina Duarte,2026-05-21,Needs follow-up
+ACT-5321,OPP-2036,ACC-1010,Technical Deep Dive,Liam Okafor,2026-05-22,Needs follow-up
+ACT-5322,OPP-2048,ACC-1042,Contract Review,Emma Reyes,2026-03-19,Neutral
+ACT-5323,OPP-2043,ACC-1026,Contract Review,Priya Ivanov,2026-06-16,Neutral
+ACT-5324,OPP-2048,ACC-1042,Follow-up Email,Emma Reyes,2026-05-05,Positive
+ACT-5325,OPP-2092,ACC-1030,Discovery Call,Wei Duarte,2026-04-26,Neutral
+ACT-5326,OPP-2050,ACC-1056,Escalation Call,Emma Chen,2026-05-22,Needs follow-up
+ACT-5327,OPP-2105,ACC-1043,Renewal Check-in,Emma Haddad,2026-04-25,Needs follow-up
+ACT-5328,OPP-2114,ACC-1056,Contract Review,Liam Novak,2026-07-17,Positive
+ACT-5329,OPP-2008,ACC-1042,Escalation Call,Carlos Haddad,2026-07-03,No response
+ACT-5330,OPP-2009,ACC-1040,Follow-up Email,Wei Weiss,2026-07-02,No response
+ACT-5331,OPP-2044,ACC-1008,Escalation Call,Omar Larsen,2026-05-03,Needs follow-up
+ACT-5332,OPP-2131,ACC-1009,Discovery Call,Theo Rossi,2026-04-04,Positive
+ACT-5333,OPP-2069,ACC-1042,Escalation Call,Mateo Kim,2026-04-11,No response
+ACT-5334,OPP-2139,ACC-1054,Escalation Call,Jordan Okafor,2026-08-18,Needs follow-up
+ACT-5335,OPP-2140,ACC-1054,Demo,Theo Chen,2026-05-12,Positive
+ACT-5336,OPP-2064,ACC-1044,Follow-up Email,Grace Okafor,2026-08-20,Needs follow-up
+ACT-5337,OPP-2068,ACC-1039,Follow-up Email,Emma Kim,2026-08-06,Needs follow-up
+ACT-5338,OPP-2031,ACC-1059,Escalation Call,Grace Osei,2026-06-29,Neutral
+ACT-5339,OPP-2090,ACC-1058,Escalation Call,Sofia Nguyen,2026-03-25,Needs follow-up
+ACT-5340,OPP-2043,ACC-1026,Technical Deep Dive,Priya Ivanov,2026-07-24,Neutral
+ACT-5341,OPP-2053,ACC-1056,Escalation Call,Fatima Muller,2026-08-13,No response
+ACT-5342,OPP-2137,ACC-1053,Follow-up Email,Jordan Sato,2026-03-29,Neutral
+ACT-5343,OPP-2083,ACC-1009,Renewal Check-in,Noor Weiss,2026-06-15,No response
+ACT-5344,OPP-2069,ACC-1042,Escalation Call,Mateo Kim,2026-04-19,Positive
+ACT-5345,OPP-2035,ACC-1015,Escalation Call,Noor Reyes,2026-05-15,Positive
+ACT-5346,OPP-2071,ACC-1034,Escalation Call,Sam Okafor,2026-03-14,Neutral
+ACT-5347,OPP-2034,ACC-1019,Demo,Anya Novak,2026-07-22,No response
+ACT-5348,OPP-2064,ACC-1044,Escalation Call,Grace Okafor,2026-03-08,Needs follow-up
+ACT-5349,OPP-2126,ACC-1036,Demo,Theo Kim,2026-04-03,No response
+ACT-5350,OPP-2107,ACC-1043,Contract Review,Jordan Chen,2026-05-05,Positive
+ACT-5351,OPP-2024,ACC-1012,Contract Review,Grace Abbas,2026-04-19,No response
+ACT-5352,OPP-2095,ACC-1044,Contract Review,Priya Reyes,2026-04-26,No response
+ACT-5353,OPP-2001,ACC-1055,Escalation Call,Alex Costa,2026-08-05,Needs follow-up
+ACT-5354,OPP-2092,ACC-1030,Escalation Call,Wei Duarte,2026-08-12,Needs follow-up
+ACT-5355,OPP-2056,ACC-1059,Contract Review,Sofia Novak,2026-07-05,Needs follow-up
+ACT-5356,OPP-2069,ACC-1042,Follow-up Email,Mateo Kim,2026-06-17,No response
+ACT-5357,OPP-2034,ACC-1019,Technical Deep Dive,Anya Novak,2026-04-26,No response
+ACT-5358,OPP-2013,ACC-1051,Discovery Call,Lucas Costa,2026-08-03,Needs follow-up
+ACT-5359,OPP-2005,ACC-1037,Discovery Call,Anya Rossi,2026-07-19,Needs follow-up
+ACT-5360,OPP-2117,ACC-1050,Discovery Call,Anya Weiss,2026-05-11,Neutral
+ACT-5361,OPP-2034,ACC-1019,Renewal Check-in,Anya Novak,2026-06-12,Neutral
+ACT-5362,OPP-2071,ACC-1034,Discovery Call,Sam Okafor,2026-03-14,No response
+ACT-5363,OPP-2065,ACC-1028,Discovery Call,Fatima Bianchi,2026-05-25,Neutral
+ACT-5364,OPP-2014,ACC-1055,Contract Review,Mateo Larsen,2026-03-21,No response
+ACT-5365,OPP-2060,ACC-1020,Contract Review,Raj Costa,2026-03-14,Positive
+ACT-5366,OPP-2025,ACC-1019,Discovery Call,Mateo Rossi,2026-07-05,Needs follow-up
+ACT-5367,OPP-2020,ACC-1016,Demo,Sam Bianchi,2026-03-30,Neutral
+ACT-5368,OPP-2133,ACC-1015,Renewal Check-in,Mateo Weiss,2026-05-07,Positive
+ACT-5369,OPP-2003,ACC-1015,Renewal Check-in,Yuki Sato,2026-06-02,Positive
+ACT-5370,OPP-2109,ACC-1012,Renewal Check-in,Omar Costa,2026-07-26,Needs follow-up
+ACT-5371,OPP-2019,ACC-1057,Demo,Nina Haddad,2026-05-22,Positive
+ACT-5372,OPP-2027,ACC-1056,Discovery Call,Raj Bianchi,2026-06-09,No response
+ACT-5373,OPP-2077,ACC-1003,Demo,Wei Muller,2026-05-23,Neutral
+ACT-5374,OPP-2037,ACC-1030,Discovery Call,Nina Duarte,2026-04-15,Positive
+ACT-5375,OPP-2043,ACC-1026,Contract Review,Priya Ivanov,2026-05-31,Neutral
+ACT-5376,OPP-2039,ACC-1002,Contract Review,Alex Nguyen,2026-03-24,Needs follow-up
+ACT-5377,OPP-2056,ACC-1059,Discovery Call,Sofia Novak,2026-08-03,Neutral
+ACT-5378,OPP-2032,ACC-1040,Technical Deep Dive,Noor Nguyen,2026-05-22,No response
+ACT-5379,OPP-2110,ACC-1026,Follow-up Email,Anya Novak,2026-07-24,Neutral
+ACT-5380,OPP-2071,ACC-1034,Renewal Check-in,Sam Okafor,2026-08-07,Neutral
+ACT-5381,OPP-2073,ACC-1006,Escalation Call,Wei Larsen,2026-03-05,Positive
+ACT-5382,OPP-2078,ACC-1024,Demo,Grace Kim,2026-04-18,Neutral
+ACT-5383,OPP-2101,ACC-1018,Follow-up Email,Alex Rossi,2026-03-16,Positive
+ACT-5384,OPP-2062,ACC-1056,Contract Review,Grace Kim,2026-05-22,Positive
+ACT-5385,OPP-2062,ACC-1056,Contract Review,Grace Kim,2026-03-18,Positive
+ACT-5386,OPP-2136,ACC-1006,Discovery Call,Sofia Reyes,2026-05-28,No response
+ACT-5387,OPP-2034,ACC-1019,Contract Review,Anya Novak,2026-04-05,Needs follow-up
+ACT-5388,OPP-2094,ACC-1047,Technical Deep Dive,Emma Costa,2026-03-07,Neutral
+ACT-5389,OPP-2121,ACC-1033,Escalation Call,Jordan Larsen,2026-08-10,Positive
+ACT-5390,OPP-2018,ACC-1055,Discovery Call,Emma Ivanov,2026-06-22,Neutral
+ACT-5391,OPP-2011,ACC-1020,Discovery Call,Fatima Sato,2026-05-19,No response
+ACT-5392,OPP-2129,ACC-1024,Escalation Call,Yuki Bianchi,2026-05-14,Needs follow-up
+ACT-5393,OPP-2103,ACC-1027,Discovery Call,Yuki Weiss,2026-03-18,Neutral
+ACT-5394,OPP-2072,ACC-1052,Discovery Call,Fatima Duarte,2026-06-10,Positive
+ACT-5395,OPP-2131,ACC-1009,Demo,Theo Rossi,2026-07-20,No response
+ACT-5396,OPP-2101,ACC-1018,Technical Deep Dive,Alex Rossi,2026-03-19,Positive
+ACT-5397,OPP-2080,ACC-1024,Renewal Check-in,Wei Costa,2026-05-09,Neutral
+ACT-5398,OPP-2015,ACC-1010,Demo,Omar Bianchi,2026-08-06,Needs follow-up
+ACT-5399,OPP-2030,ACC-1006,Contract Review,Theo Osei,2026-03-25,Positive
+ACT-5400,OPP-2080,ACC-1024,Renewal Check-in,Wei Costa,2026-03-13,Neutral

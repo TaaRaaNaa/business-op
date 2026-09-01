@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AgentConfig",
+  "description": "Configuration schema for an agent definition, structured to mirror the shape used by Copilot Studio / low-code agent builders so the same JSON could be adapted to that tool.",
+  "type": "object",
+  "required": ["agent_id", "name", "description", "instructions", "tools", "triggers"],
+  "properties": {
+    "agent_id": { "type": "string", "pattern": "^agent-[a-z0-9-]+$" },
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "instructions": {
+      "type": "string",
+      "description": "System prompt / behavioral instructions for the agent"
+    },
+    "model": {
+      "type": "string",
+      "default": "claude-sonnet-4-6"
+    },
+    "tools": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "description", "input_schema"],
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "input_schema": { "type": "object" }
+        }
+      }
+    },
+    "triggers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "properties": {
+          "type": { "type": "string", "enum": ["manual", "scheduled", "event"] },
+          "schedule_cron": { "type": "string" },
+          "event_name": { "type": "string" }
+        }
+      }
+    },
+    "guardrails": {
+      "type": "object",
+      "properties": {
+        "max_tool_calls_per_run": { "type": "integer", "default": 10 },
+        "requires_human_approval_above_usd": { "type": "number" },
+        "escalation_contact": { "type": "string" }
+      }
+    }
+  }
+}

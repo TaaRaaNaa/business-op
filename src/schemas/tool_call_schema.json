@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCPToolCall",
+  "description": "Request/response envelope for MCP tool calls used by this project's server, matching the shape MCP clients expect.",
+  "type": "object",
+  "properties": {
+    "request": {
+      "type": "object",
+      "required": ["tool_name", "arguments"],
+      "properties": {
+        "tool_name": { "type": "string" },
+        "arguments": { "type": "object" }
+      }
+    },
+    "response": {
+      "type": "object",
+      "required": ["status", "data"],
+      "properties": {
+        "status": { "type": "string", "enum": ["success", "error"] },
+        "data": {},
+        "error_message": { "type": "string" }
+      }
+    }
+  }
+}

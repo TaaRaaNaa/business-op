@@ -1,0 +1,141 @@
+opp_id,account_id,product,stage,amount_usd,owner,created_date,close_date,loss_reason,days_since_last_activity
+OPP-2001,ACC-1055,FlexAnalytics,Closed Won,90000,Alex Costa,2025-10-08,2026-05-28,,24
+OPP-2002,ACC-1055,FlexConnect API,Closed Won,250000,Omar Osei,2025-12-27,2026-07-07,,31
+OPP-2003,ACC-1015,FlexOMS,Qualification,90000,Yuki Sato,2025-11-23,,,10
+OPP-2004,ACC-1054,FlexConnect API,Proposal Sent,150000,Alex Sato,2026-05-25,,,37
+OPP-2005,ACC-1037,FlexAnalytics,Negotiation,30000,Anya Rossi,2026-06-17,,,3
+OPP-2006,ACC-1017,FlexAnalytics,Needs Analysis,60000,Yuki Sato,2026-04-12,,,17
+OPP-2007,ACC-1049,FlexAlgo Suite,Closed Lost,15000,Sam Chen,2025-12-26,2026-10-01,,14
+OPP-2008,ACC-1042,FlexOMS,Prospecting,15000,Carlos Haddad,2025-08-30,,,1
+OPP-2009,ACC-1040,FlexAnalytics,Qualification,250000,Wei Weiss,2026-05-26,,,13
+OPP-2010,ACC-1030,FlexEMS,Negotiation,150000,Theo Silva,2026-01-22,,,10
+OPP-2011,ACC-1020,FlexAlgo Suite,Prospecting,150000,Fatima Sato,2026-07-16,,,45
+OPP-2012,ACC-1013,FlexEMS,Prospecting,15000,Raj Osei,2025-08-10,,,7
+OPP-2013,ACC-1051,FlexAlgo Suite,Closed Lost,150000,Lucas Costa,2026-07-08,2026-09-22,,0
+OPP-2014,ACC-1055,FlexOMS,Needs Analysis,90000,Mateo Larsen,2025-11-21,,,45
+OPP-2015,ACC-1010,FlexAlgo Suite,Needs Analysis,150000,Omar Bianchi,2025-11-04,,,29
+OPP-2016,ACC-1028,FlexAlgo Suite,Closed Won,60000,Carlos Novak,2025-09-29,2026-06-07,,28
+OPP-2017,ACC-1016,FlexConnect API,Closed Won,250000,Fatima Ivanov,2025-10-11,2026-10-13,,31
+OPP-2018,ACC-1055,FlexEMS,Needs Analysis,60000,Emma Ivanov,2025-11-22,,,17
+OPP-2019,ACC-1057,FlexConnect API,Proposal Sent,15000,Nina Haddad,2026-03-10,,,5
+OPP-2020,ACC-1016,FlexConnect API,Closed Won,30000,Sam Bianchi,2025-11-21,2026-03-12,,1
+OPP-2021,ACC-1006,FlexEMS,Qualification,60000,Grace Costa,2026-01-03,,,30
+OPP-2022,ACC-1036,FlexConnect API,Proposal Sent,60000,Mateo Larsen,2025-12-24,,,17
+OPP-2023,ACC-1020,FlexEMS,Qualification,60000,Wei Duarte,2026-05-29,,,44
+OPP-2024,ACC-1012,FlexAlgo Suite,Qualification,250000,Grace Abbas,2025-11-24,,,38
+OPP-2025,ACC-1019,FlexAlgo Suite,Closed Lost,30000,Mateo Rossi,2026-04-21,2026-05-26,Budget constraints,45
+OPP-2026,ACC-1035,FlexOMS,Prospecting,150000,Raj Kim,2026-07-06,,,40
+OPP-2027,ACC-1056,FlexOMS,Closed Won,150000,Raj Bianchi,2026-06-07,2026-02-24,,28
+OPP-2028,ACC-1022,FlexAlgo Suite,Qualification,90000,Wei Novak,2026-07-03,,,25
+OPP-2029,ACC-1032,FlexOMS,Prospecting,30000,Sofia Weiss,2025-09-10,,,19
+OPP-2030,ACC-1006,FlexConnect API,Closed Lost,90000,Theo Osei,2026-05-30,2026-07-04,,28
+OPP-2031,ACC-1059,FlexAnalytics,Needs Analysis,60000,Grace Osei,2025-10-01,,,3
+OPP-2032,ACC-1040,FlexEMS,Closed Lost,250000,Noor Nguyen,2026-06-09,2026-09-16,Project deprioritized,15
+OPP-2033,ACC-1012,FlexOMS,Proposal Sent,90000,Anya Osei,2026-05-10,,,30
+OPP-2034,ACC-1019,FlexAlgo Suite,Prospecting,250000,Anya Novak,2026-03-04,,,43
+OPP-2035,ACC-1015,FlexConnect API,Closed Lost,250000,Noor Reyes,2025-09-12,2026-08-30,No decision maker engagement,41
+OPP-2036,ACC-1010,FlexOMS,Closed Lost,15000,Liam Okafor,2026-05-18,2026-06-02,,7
+OPP-2037,ACC-1030,FlexAnalytics,Negotiation,60000,Nina Duarte,2025-08-05,,,31
+OPP-2038,ACC-1029,FlexAnalytics,Prospecting,250000,Yuki Osei,2026-07-09,,,16
+OPP-2039,ACC-1002,FlexConnect API,Prospecting,150000,Alex Nguyen,2025-08-18,,,36
+OPP-2040,ACC-1003,FlexAnalytics,Closed Won,150000,Anya Nguyen,2026-05-01,2026-07-27,,37
+OPP-2041,ACC-1028,FlexOMS,Negotiation,90000,Mateo Reyes,2025-11-20,,,21
+OPP-2042,ACC-1021,FlexAlgo Suite,Negotiation,90000,Sam Okafor,2026-05-08,,,42
+OPP-2043,ACC-1026,FlexOMS,Closed Won,90000,Priya Ivanov,2025-10-21,2026-06-20,,20
+OPP-2044,ACC-1008,FlexConnect API,Closed Lost,15000,Omar Larsen,2026-01-04,2026-03-30,Budget constraints,12
+OPP-2045,ACC-1034,FlexAnalytics,Needs Analysis,15000,Noor Nguyen,2025-11-16,,,35
+OPP-2046,ACC-1009,FlexAnalytics,Closed Lost,15000,Alex Osei,2025-12-17,2026-06-27,Project deprioritized,19
+OPP-2047,ACC-1036,FlexOMS,Prospecting,30000,Wei Larsen,2026-01-02,,,7
+OPP-2048,ACC-1042,FlexAlgo Suite,Closed Won,150000,Emma Reyes,2025-11-16,2026-02-22,,30
+OPP-2049,ACC-1016,FlexAnalytics,Proposal Sent,30000,Theo Abbas,2026-05-16,,,8
+OPP-2050,ACC-1056,FlexAlgo Suite,Prospecting,150000,Emma Chen,2025-12-29,,,18
+OPP-2051,ACC-1047,FlexConnect API,Qualification,250000,Sam Kim,2025-10-02,,,28
+OPP-2052,ACC-1035,FlexConnect API,Proposal Sent,150000,Fatima Larsen,2026-02-09,,,20
+OPP-2053,ACC-1056,FlexEMS,Qualification,150000,Fatima Muller,2025-08-06,,,26
+OPP-2054,ACC-1003,FlexAnalytics,Needs Analysis,90000,Sofia Bianchi,2025-11-29,,,2
+OPP-2055,ACC-1009,FlexAlgo Suite,Proposal Sent,15000,Anya Silva,2025-09-30,,,33
+OPP-2056,ACC-1059,FlexEMS,Proposal Sent,90000,Sofia Novak,2025-07-25,,,30
+OPP-2057,ACC-1051,FlexConnect API,Closed Lost,250000,Fatima Novak,2026-02-06,2026-05-12,,20
+OPP-2058,ACC-1041,FlexConnect API,Closed Won,15000,Theo Novak,2025-11-22,2026-06-29,,40
+OPP-2059,ACC-1044,FlexOMS,Closed Lost,90000,Wei Silva,2026-04-04,2026-03-14,Project deprioritized,44
+OPP-2060,ACC-1020,FlexAlgo Suite,Closed Lost,15000,Raj Costa,2026-07-06,2026-04-19,,9
+OPP-2061,ACC-1016,FlexEMS,Proposal Sent,30000,Liam Novak,2025-10-13,,,39
+OPP-2062,ACC-1056,FlexEMS,Needs Analysis,90000,Grace Kim,2025-08-14,,,14
+OPP-2063,ACC-1030,FlexAlgo Suite,Negotiation,250000,Alex Larsen,2025-12-06,,,18
+OPP-2064,ACC-1044,FlexAnalytics,Proposal Sent,60000,Grace Okafor,2026-06-22,,,40
+OPP-2065,ACC-1028,FlexAlgo Suite,Negotiation,30000,Fatima Bianchi,2025-12-08,,,6
+OPP-2066,ACC-1016,FlexConnect API,Needs Analysis,60000,Raj Chen,2026-01-27,,,42
+OPP-2067,ACC-1026,FlexOMS,Qualification,150000,Sam Okafor,2025-10-13,,,14
+OPP-2068,ACC-1039,FlexEMS,Closed Won,150000,Emma Kim,2026-04-08,2026-09-08,,40
+OPP-2069,ACC-1042,FlexOMS,Prospecting,150000,Mateo Kim,2025-12-16,,,5
+OPP-2070,ACC-1059,FlexEMS,Qualification,30000,Sofia Duarte,2025-12-29,,,23
+OPP-2071,ACC-1034,FlexEMS,Proposal Sent,60000,Sam Okafor,2026-03-12,,,21
+OPP-2072,ACC-1052,FlexEMS,Prospecting,30000,Fatima Duarte,2026-06-21,,,23
+OPP-2073,ACC-1006,FlexAlgo Suite,Closed Won,150000,Wei Larsen,2026-07-22,2026-04-22,,43
+OPP-2074,ACC-1048,FlexAnalytics,Negotiation,250000,Mateo Silva,2025-10-03,,,43
+OPP-2075,ACC-1015,FlexConnect API,Proposal Sent,60000,Theo Muller,2025-09-15,,,41
+OPP-2076,ACC-1005,FlexAlgo Suite,Negotiation,250000,Lucas Silva,2025-12-04,,,8
+OPP-2077,ACC-1003,FlexAnalytics,Closed Lost,15000,Wei Muller,2026-02-24,2026-08-19,,29
+OPP-2078,ACC-1024,FlexConnect API,Negotiation,90000,Grace Kim,2025-08-07,,,26
+OPP-2079,ACC-1042,FlexConnect API,Prospecting,90000,Emma Patel,2025-11-21,,,44
+OPP-2080,ACC-1024,FlexEMS,Qualification,60000,Wei Costa,2025-12-14,,,34
+OPP-2081,ACC-1058,FlexOMS,Closed Lost,90000,Emma Haddad,2026-01-27,2026-08-26,,5
+OPP-2082,ACC-1043,FlexConnect API,Qualification,15000,Jordan Ivanov,2025-09-05,,,15
+OPP-2083,ACC-1009,FlexOMS,Closed Won,150000,Noor Weiss,2026-04-15,2026-07-09,,14
+OPP-2084,ACC-1022,FlexOMS,Closed Won,60000,Sofia Kim,2025-09-27,2026-06-21,,11
+OPP-2085,ACC-1008,FlexEMS,Negotiation,15000,Mateo Muller,2026-07-16,,,37
+OPP-2086,ACC-1021,FlexOMS,Prospecting,30000,Lucas Abbas,2026-03-16,,,7
+OPP-2087,ACC-1048,FlexAlgo Suite,Prospecting,150000,Grace Silva,2025-12-12,,,28
+OPP-2088,ACC-1033,FlexOMS,Qualification,250000,Nina Okafor,2025-09-18,,,29
+OPP-2089,ACC-1042,FlexAnalytics,Closed Lost,90000,Lucas Silva,2026-06-28,2026-02-18,,4
+OPP-2090,ACC-1058,FlexEMS,Prospecting,15000,Sofia Nguyen,2025-09-21,,,39
+OPP-2091,ACC-1041,FlexAlgo Suite,Proposal Sent,90000,Theo Abbas,2025-07-30,,,18
+OPP-2092,ACC-1030,FlexOMS,Proposal Sent,250000,Wei Duarte,2025-12-21,,,13
+OPP-2093,ACC-1028,FlexAnalytics,Proposal Sent,60000,Anya Sato,2026-04-04,,,26
+OPP-2094,ACC-1047,FlexAlgo Suite,Prospecting,250000,Emma Costa,2025-12-23,,,9
+OPP-2095,ACC-1044,FlexOMS,Closed Lost,15000,Priya Reyes,2026-06-25,2026-09-08,,8
+OPP-2096,ACC-1036,FlexConnect API,Prospecting,60000,Wei Reyes,2025-10-15,,,22
+OPP-2097,ACC-1056,FlexOMS,Negotiation,60000,Theo Okafor,2025-12-25,,,22
+OPP-2098,ACC-1007,FlexEMS,Proposal Sent,250000,Sam Muller,2026-04-12,,,6
+OPP-2099,ACC-1023,FlexOMS,Closed Won,60000,Grace Muller,2026-01-22,2026-03-22,,35
+OPP-2100,ACC-1050,FlexConnect API,Closed Won,15000,Theo Nguyen,2025-09-18,2026-10-13,,11
+OPP-2101,ACC-1018,FlexAlgo Suite,Closed Won,60000,Alex Rossi,2026-02-21,2026-08-15,,36
+OPP-2102,ACC-1043,FlexOMS,Needs Analysis,15000,Nina Haddad,2026-05-18,,,24
+OPP-2103,ACC-1027,FlexAlgo Suite,Proposal Sent,60000,Yuki Weiss,2026-05-10,,,38
+OPP-2104,ACC-1006,FlexEMS,Closed Won,150000,Jordan Novak,2026-05-11,2026-06-10,,28
+OPP-2105,ACC-1043,FlexAnalytics,Needs Analysis,90000,Emma Haddad,2025-09-22,,,32
+OPP-2106,ACC-1008,FlexAlgo Suite,Needs Analysis,250000,Grace Bianchi,2026-06-03,,,33
+OPP-2107,ACC-1043,FlexAnalytics,Needs Analysis,150000,Jordan Chen,2026-04-08,,,13
+OPP-2108,ACC-1020,FlexAlgo Suite,Closed Lost,60000,Yuki Silva,2026-05-20,2026-10-24,,27
+OPP-2109,ACC-1012,FlexEMS,Prospecting,150000,Omar Costa,2025-10-30,,,4
+OPP-2110,ACC-1026,FlexAnalytics,Closed Won,15000,Anya Novak,2026-07-08,2026-05-20,,36
+OPP-2111,ACC-1028,FlexAnalytics,Proposal Sent,60000,Wei Sato,2025-07-31,,,1
+OPP-2112,ACC-1021,FlexAnalytics,Qualification,250000,Mateo Novak,2025-09-16,,,27
+OPP-2113,ACC-1055,FlexConnect API,Prospecting,90000,Nina Novak,2025-12-18,,,25
+OPP-2114,ACC-1056,FlexEMS,Needs Analysis,60000,Liam Novak,2026-02-06,,,32
+OPP-2115,ACC-1041,FlexEMS,Prospecting,60000,Mateo Kim,2025-11-10,,,15
+OPP-2116,ACC-1007,FlexEMS,Prospecting,150000,Sofia Novak,2026-04-19,,,11
+OPP-2117,ACC-1050,FlexConnect API,Negotiation,150000,Anya Weiss,2025-12-04,,,41
+OPP-2118,ACC-1041,FlexAlgo Suite,Closed Lost,30000,Anya Novak,2026-02-14,2026-03-01,,40
+OPP-2119,ACC-1020,FlexOMS,Closed Won,60000,Nina Novak,2025-09-30,2026-05-22,,29
+OPP-2120,ACC-1029,FlexAlgo Suite,Prospecting,15000,Priya Osei,2026-01-22,,,38
+OPP-2121,ACC-1033,FlexConnect API,Needs Analysis,250000,Jordan Larsen,2025-10-05,,,36
+OPP-2122,ACC-1042,FlexAnalytics,Qualification,150000,Sofia Patel,2025-09-23,,,28
+OPP-2123,ACC-1007,FlexOMS,Closed Won,150000,Liam Patel,2026-02-04,2026-06-23,,45
+OPP-2124,ACC-1029,FlexConnect API,Closed Lost,150000,Liam Costa,2025-11-03,2026-04-20,Timeline mismatch,24
+OPP-2125,ACC-1027,FlexConnect API,Closed Won,15000,Yuki Novak,2025-08-16,2026-05-12,,6
+OPP-2126,ACC-1036,FlexAlgo Suite,Negotiation,250000,Theo Kim,2026-03-06,,,21
+OPP-2127,ACC-1006,FlexAlgo Suite,Proposal Sent,60000,Fatima Kim,2026-05-18,,,38
+OPP-2128,ACC-1046,FlexConnect API,Closed Lost,90000,Yuki Kim,2026-02-21,2026-09-10,,32
+OPP-2129,ACC-1024,FlexEMS,Prospecting,30000,Yuki Bianchi,2026-02-21,,,12
+OPP-2130,ACC-1015,FlexOMS,Closed Lost,60000,Wei Abbas,2026-05-11,2026-10-08,,39
+OPP-2131,ACC-1009,FlexEMS,Proposal Sent,30000,Theo Rossi,2026-05-12,,,28
+OPP-2132,ACC-1003,FlexEMS,Needs Analysis,90000,Theo Okafor,2025-08-17,,,28
+OPP-2133,ACC-1015,FlexAnalytics,Proposal Sent,30000,Mateo Weiss,2026-02-21,,,28
+OPP-2134,ACC-1030,FlexConnect API,Closed Won,150000,Lucas Rossi,2026-01-15,2026-07-17,,38
+OPP-2135,ACC-1009,FlexAnalytics,Closed Won,60000,Omar Silva,2026-07-03,2026-08-25,,18
+OPP-2136,ACC-1006,FlexAnalytics,Closed Won,150000,Sofia Reyes,2026-03-12,2026-09-11,,14
+OPP-2137,ACC-1053,FlexOMS,Proposal Sent,90000,Jordan Sato,2026-02-01,,,32
+OPP-2138,ACC-1024,FlexAlgo Suite,Qualification,30000,Alex Ivanov,2026-06-18,,,6
+OPP-2139,ACC-1054,FlexEMS,Closed Won,30000,Jordan Okafor,2026-02-08,2026-02-28,,44
+OPP-2140,ACC-1054,FlexAnalytics,Prospecting,90000,Theo Chen,2025-08-02,,,5

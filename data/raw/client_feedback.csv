@@ -1,0 +1,91 @@
+feedback_id,account_id,channel,category,severity,theme,feedback_date
+FB-7001,ACC-1008,QBR Notes,Client Services,Medium,Onboarding was slower than expected,2026-08-23
+FB-7002,ACC-1011,Survey (CSAT),Sales,Medium,Renewal negotiation felt rushed,2025-12-04
+FB-7003,ACC-1034,QBR Notes,Product,Low,Feature request: real-time risk dashboard,2026-02-19
+FB-7004,ACC-1009,Support Ticket,Product,Low,Feature request: real-time risk dashboard,2026-08-13
+FB-7005,ACC-1022,Survey (CSAT),Sales,Low,Sales rep was very responsive during eval,2025-12-03
+FB-7006,ACC-1005,Email,Product,Low,Feature request: real-time risk dashboard,2026-07-20
+FB-7007,ACC-1032,Email,Sales,Medium,Renewal negotiation felt rushed,2026-02-25
+FB-7008,ACC-1004,Email,Sales,Medium,Renewal negotiation felt rushed,2026-06-04
+FB-7009,ACC-1024,Survey (CSAT),Client Services,Low,Excellent support response time,2026-07-07
+FB-7010,ACC-1058,Support Ticket,Product,Medium,Training materials outdated for latest release,2026-05-04
+FB-7011,ACC-1048,Support Ticket,Client Services,High,Outage during market open caused client escalation,2026-08-06
+FB-7012,ACC-1055,QBR Notes,Client Services,Medium,Onboarding was slower than expected,2026-08-05
+FB-7013,ACC-1031,Renewal Call,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-06-13
+FB-7014,ACC-1012,Email,Client Services,Medium,Onboarding was slower than expected,2026-01-26
+FB-7015,ACC-1015,QBR Notes,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-01-27
+FB-7016,ACC-1059,Survey (CSAT),Client Services,High,Integration with internal OMS took 3 extra weeks,2026-07-20
+FB-7017,ACC-1037,Support Ticket,Client Services,High,Integration with internal OMS took 3 extra weeks,2025-12-14
+FB-7018,ACC-1044,QBR Notes,Client Services,Medium,Onboarding was slower than expected,2026-05-06
+FB-7019,ACC-1052,Support Ticket,Client Services,High,Outage during market open caused client escalation,2026-02-04
+FB-7020,ACC-1005,Survey (CSAT),Sales,Medium,Renewal negotiation felt rushed,2026-03-22
+FB-7021,ACC-1021,Email,Product,High,API documentation unclear for FlexConnect,2026-01-07
+FB-7022,ACC-1001,QBR Notes,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-04-01
+FB-7023,ACC-1037,Email,Product,Low,Feature request: real-time risk dashboard,2026-04-26
+FB-7024,ACC-1030,Email,Client Services,High,Integration with internal OMS took 3 extra weeks,2025-12-19
+FB-7025,ACC-1050,Email,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-04-25
+FB-7026,ACC-1010,Renewal Call,Client Services,Medium,Onboarding was slower than expected,2026-08-16
+FB-7027,ACC-1015,Survey (CSAT),Client Services,High,Outage during market open caused client escalation,2026-08-24
+FB-7028,ACC-1022,Renewal Call,Client Services,Medium,Onboarding was slower than expected,2026-03-24
+FB-7029,ACC-1007,Email,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-04-29
+FB-7030,ACC-1027,Support Ticket,Sales,Medium,Renewal negotiation felt rushed,2026-06-17
+FB-7031,ACC-1046,Support Ticket,Product,Low,Feature request: real-time risk dashboard,2026-08-06
+FB-7032,ACC-1059,Email,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-01-29
+FB-7033,ACC-1045,Renewal Call,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-07-16
+FB-7034,ACC-1038,Email,Product,High,API documentation unclear for FlexConnect,2026-06-21
+FB-7035,ACC-1041,Support Ticket,Sales,Low,Sales rep was very responsive during eval,2025-11-11
+FB-7036,ACC-1004,QBR Notes,Sales,Low,Sales rep was very responsive during eval,2026-04-29
+FB-7037,ACC-1019,Survey (CSAT),Product,Low,Feature request: real-time risk dashboard,2026-02-08
+FB-7038,ACC-1045,Survey (CSAT),Client Services,High,Integration with internal OMS took 3 extra weeks,2026-01-09
+FB-7039,ACC-1018,Support Ticket,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-05-17
+FB-7040,ACC-1009,Support Ticket,Product,Medium,Training materials outdated for latest release,2026-06-10
+FB-7041,ACC-1007,Renewal Call,Client Services,Low,Excellent support response time,2026-01-02
+FB-7042,ACC-1021,Support Ticket,Sales,Low,Sales rep was very responsive during eval,2025-11-27
+FB-7043,ACC-1023,Renewal Call,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-03-24
+FB-7044,ACC-1030,Support Ticket,Product,Low,Feature request: real-time risk dashboard,2026-07-13
+FB-7045,ACC-1011,Email,Product,Low,Feature request: real-time risk dashboard,2026-08-08
+FB-7046,ACC-1014,QBR Notes,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-07-13
+FB-7047,ACC-1046,Survey (CSAT),Sales,Medium,Pricing model confusing for multi-asset bundles,2026-02-07
+FB-7048,ACC-1033,Survey (CSAT),Client Services,Medium,Onboarding was slower than expected,2026-04-17
+FB-7049,ACC-1053,Support Ticket,Client Services,Low,Excellent support response time,2026-02-02
+FB-7050,ACC-1055,Email,Sales,Medium,Renewal negotiation felt rushed,2025-11-20
+FB-7051,ACC-1016,Renewal Call,Product,High,API documentation unclear for FlexConnect,2026-07-07
+FB-7052,ACC-1052,Support Ticket,Client Services,Low,Excellent support response time,2026-08-22
+FB-7053,ACC-1004,QBR Notes,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-05-19
+FB-7054,ACC-1053,Survey (CSAT),Sales,Low,Sales rep was very responsive during eval,2026-07-16
+FB-7055,ACC-1038,Survey (CSAT),Product,Medium,Training materials outdated for latest release,2026-07-21
+FB-7056,ACC-1002,QBR Notes,Product,High,API documentation unclear for FlexConnect,2026-01-13
+FB-7057,ACC-1052,Support Ticket,Client Services,Low,Excellent support response time,2026-03-12
+FB-7058,ACC-1008,Renewal Call,Client Services,Medium,Onboarding was slower than expected,2026-08-03
+FB-7059,ACC-1011,Renewal Call,Product,Medium,Training materials outdated for latest release,2026-02-07
+FB-7060,ACC-1032,Renewal Call,Client Services,Medium,Onboarding was slower than expected,2026-01-22
+FB-7061,ACC-1012,QBR Notes,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-05-25
+FB-7062,ACC-1018,Renewal Call,Product,Low,Feature request: real-time risk dashboard,2026-06-13
+FB-7063,ACC-1003,Email,Product,Medium,Training materials outdated for latest release,2026-04-25
+FB-7064,ACC-1042,Renewal Call,Product,Low,Feature request: real-time risk dashboard,2026-01-30
+FB-7065,ACC-1057,Renewal Call,Client Services,High,Outage during market open caused client escalation,2026-07-28
+FB-7066,ACC-1006,Renewal Call,Product,Low,Feature request: real-time risk dashboard,2026-06-19
+FB-7067,ACC-1027,Email,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-04-23
+FB-7068,ACC-1041,Support Ticket,Client Services,High,Outage during market open caused client escalation,2026-02-14
+FB-7069,ACC-1051,Renewal Call,Client Services,High,Integration with internal OMS took 3 extra weeks,2025-11-23
+FB-7070,ACC-1051,Survey (CSAT),Sales,Medium,Renewal negotiation felt rushed,2025-11-12
+FB-7071,ACC-1033,Renewal Call,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-04-12
+FB-7072,ACC-1012,Survey (CSAT),Client Services,Medium,Onboarding was slower than expected,2026-05-08
+FB-7073,ACC-1002,Support Ticket,Product,Low,Feature request: real-time risk dashboard,2025-12-30
+FB-7074,ACC-1034,Email,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-05-01
+FB-7075,ACC-1011,QBR Notes,Product,High,API documentation unclear for FlexConnect,2026-04-27
+FB-7076,ACC-1018,Support Ticket,Client Services,High,Outage during market open caused client escalation,2026-05-08
+FB-7077,ACC-1037,Survey (CSAT),Sales,Low,Sales rep was very responsive during eval,2026-06-01
+FB-7078,ACC-1012,Email,Sales,Medium,Pricing model confusing for multi-asset bundles,2026-03-19
+FB-7079,ACC-1052,Email,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-08-14
+FB-7080,ACC-1046,Email,Client Services,High,Integration with internal OMS took 3 extra weeks,2025-11-13
+FB-7081,ACC-1010,QBR Notes,Product,Medium,Training materials outdated for latest release,2025-12-19
+FB-7082,ACC-1035,QBR Notes,Product,Low,Feature request: real-time risk dashboard,2025-12-20
+FB-7083,ACC-1003,Support Ticket,Product,High,API documentation unclear for FlexConnect,2026-05-01
+FB-7084,ACC-1039,Support Ticket,Sales,Medium,Pricing model confusing for multi-asset bundles,2025-12-02
+FB-7085,ACC-1031,Survey (CSAT),Client Services,Medium,Onboarding was slower than expected,2026-05-17
+FB-7086,ACC-1052,Survey (CSAT),Client Services,Low,Excellent support response time,2026-05-30
+FB-7087,ACC-1059,Support Ticket,Client Services,High,Integration with internal OMS took 3 extra weeks,2026-08-17
+FB-7088,ACC-1010,QBR Notes,Product,Medium,Training materials outdated for latest release,2026-07-03
+FB-7089,ACC-1055,Survey (CSAT),Client Services,High,Outage during market open caused client escalation,2026-07-22
+FB-7090,ACC-1024,Email,Sales,Low,Sales rep was very responsive during eval,2026-07-08

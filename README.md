@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 What Is FlexOps?
+## What Is FlexOps?
 
 FlexOps is a working AI-powered Business Operations prototype designed to sit **on top of existing operational systems** and turn data + organizational knowledge into actionable insights.
 
@@ -39,7 +39,7 @@ The objective is to create an:
 
 ---
 
-# 🚀 Try the Working Demo
+# Try the Working Demo
 
 ## [Launch the Live FlexOps Demo →](https://flexops-sales-client-ops-copilot.streamlit.app/)
 
@@ -56,7 +56,7 @@ The application currently demonstrates four primary business workflows:
 
 ---
 
-# 🎯 Executive Value Proposition
+# Executive Value Proposition
 
 Traditional dashboards primarily answer:
 
